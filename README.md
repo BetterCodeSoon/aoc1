@@ -1,4 +1,4 @@
-# aoc1
+# aoc1 2022
 https://adventofcode.com/2022/day/1
 
 # tutorial links and learning resources

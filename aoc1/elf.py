@@ -1,9 +1,9 @@
 class Elf:
 
-    food_bag = [0]
+    food_bag = []
     total_calories_carried = 0
 
-    def __init__(self, food_bag):
+    def __init__(self, food_bag=None):
         self.food_bag = food_bag
         self.sum_up_calories()
 

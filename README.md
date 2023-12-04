@@ -8,3 +8,6 @@ https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/
 https://docs.python.org/3/tutorial/modules.html#packages
 
 https://packaging.python.org/en/latest/tutorials/packaging-projects/
+
+Pytest Tutorial – How to Test Python Code
+https://www.youtube.com/watch?v=cHYq1MRoyI0
